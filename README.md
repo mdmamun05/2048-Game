@@ -1,2 +1,2 @@
 # 2048-Game
-helo script
+help to learn script
