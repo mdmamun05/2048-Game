@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+    
+}
+
+hr{
+    width: 500px;
+}
+
+
+#board {
+    width: 400px;
+    height: 400px;
+
+    background: darkslategrey;
+    border: 6px solid #d5d5d5;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
+.tile {
+    width: 90px;
+    height: 90px;
+    border: 5px solid #D5D5D5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+.x2{
+ color: brown;
+ background-color: cadetblue;   
+}
+
+.x4{
+    color: brown;
+    background-color: cadetblue;   
+   }
+
+   .x8{
+    color: rgb(224, 235, 215);
+    background-color: rgb(51, 58, 51);   
+   }
+
+   .x16{
+    color: brown;
+    background-color: cadetblue;   
+   }
+
+   .x32{
+    color: brown;
+    background-color: cadetblue;   
+   }
+
+   .x64{
+    color: brown;
+    background-color: cadetblue;   
+   }
+
+   .x128{
+    color: brown;
+    background-color: cadetblue;
+   }
+
+   .x256{
+    color: brown;
+    background-color: cadetblue;
+   }
+
+   .x512{
+    color: brown;
+    background-color: cadetblue;
+   }
+
+   .x1024{
+    color: brown;
+    background-color: cadetblue;
+   }
+
+   .x2048{
+    color: brown;
+    background-color: cadetblue;
+   }
+
+   .x4096{
+    color: brown;
+    background-color: cadetblue;
+   }
+
+   .x8192{
+    color: brown;
+    background-color: cadetblue;
+   }
